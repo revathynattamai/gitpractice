@@ -4,3 +4,4 @@ Third
 Fourth
 new branch
 In master branch
+stashing
